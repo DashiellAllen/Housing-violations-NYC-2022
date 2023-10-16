@@ -30,7 +30,7 @@ Using this data portal, we identified the violations of each of the six properti
 We downloaded the filtered information as a csv. 
 We created a Google Sheets where we uploaded the six buildings with the number of violations [https://docs.google.com/spreadsheets/d/1R3GnWZu-pxQzwAZyzQDT2QXgcMLWn6BUGSIaeXcfBlY/edit#gid=695508715]
 
-We created a pivot table and calculated the average for each building, which was 32.5. 
+**We created a pivot table and calculated the average for the six buildings, which was 32.5.** 
 
 Outputs: N/A
 
@@ -52,7 +52,7 @@ Génesis Dávila Santiago at g.davilasantiago@journalism.cuny.edu
 
 A short paragraph with findings:
 
-According to our Jupyter Notebook analysis based on NYC Open Data, the average number of violations per building for 2022 was 5.8. However, our Google Sheets [Notable Buildings/Violations_Per_Building] analysis shows that the six buildings with an identified cap rate owned by Max Rovt and Robert Izsak nearly doubled the city's average number of violations for 2022, with ten violations per building.
+According to our Jupyter Notebook analysis based on NYC Open Data, the average number of violations per building for 2022 was 5.8. However, our Google Sheets [Notable Buildings/Violations_Per_Building] analysis shows that the six buildings with an identified cap rate owned by Max Rovt and Robert Izsak was more than **six times higher than the average number of violations for 2022, with 32.5 violations per building**.
 
 
 
