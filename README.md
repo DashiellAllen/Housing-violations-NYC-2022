@@ -12,7 +12,7 @@ Notable Buildings — This Google Sheet contains the 13 buildings owned by Rober
 
 Housing Violations NYC 2022 — This Jupyter Notebook contains the average number of violations per building in New York City for 2022.
 
-Methodology
+### Methodology
 We want to
 The notebook Housing Violations NYC 2022 performs the following analyses:
 
@@ -28,7 +28,7 @@ We used the data from Just Fix/ Who Owns What to identify the properties Robert 
 Based on information shared by the Landlords group, we decided to establish our analysis on six of the 13 properties owned by Izcack and Rovt because their cap rates are available.
 Using this data portal, we identified the violations of each of the six properties by filtering the information with their Registration ID number.
 We downloaded the filtered information as a csv. 
-We created a Google Sheets where we uploaded the six buildings with the (number of violations)[https://docs.google.com/spreadsheets/d/1R3GnWZu-pxQzwAZyzQDT2QXgcMLWn6BUGSIaeXcfBlY/edit#gid=695508715]
+We created a Google Sheets where we uploaded the six buildings with the [number of violations](https://docs.google.com/spreadsheets/d/1R3GnWZu-pxQzwAZyzQDT2QXgcMLWn6BUGSIaeXcfBlY/edit#gid=695508715)
 
 **We created a pivot table and calculated the average for the six buildings, which was 32.5.** 
 
