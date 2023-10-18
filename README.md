@@ -14,9 +14,9 @@ Housing Violations NYC 2022 — This Jupyter Notebook contains the average numbe
 
 ### Methodology
 We want to
-The notebook Housing Violations NYC 2022 performs the following analyses:
+The [notebook](https://github.com/DashiellAllen/Housing-violations-NYC-2022/blob/main/housing-data/notebook/bad-landlords-nyc-2022.ipynb) Housing Violations NYC 2022 performs the following analyses:
 
-Part 1: To get the average of violations per building in NYC we took thefollowingt steps:   (https://github.com/DashiellAllen/Housing-violations-NYC-2022/blob/main/housing-data/notebook/bad-landlords-nyc-2022.ipynb
+Part 1: To get the average of violations per building in NYC we took the following steps:   
 
 Downloaded as .csv all violations from January 1 - December 31, 2022 from NYC Open Data - https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5.
 Created a jupyter notebooks file and uploaded the csv. 
