@@ -18,7 +18,7 @@ The [notebook](https://github.com/DashiellAllen/Housing-violations-NYC-2022/blob
 
 Part 1: To get the average of violations per building in NYC we took the following steps:   
 
-Downloaded as .csv all violations from January 1 - December 31, 2022 from NYC Open Data - https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5.
+Downloaded as .csv all violations from January 1 - December 31, 2022 from [NYC Open Data](https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5).
 Created a jupyter notebooks file and uploaded the csv. 
 Used the “GroupBy” python function to view how many “ViolationIDs” (a unique ID tagged to every violation) were associated with each “BuildingID” (a single ID used for all violations in a building). 
 Used “describe” to view the average number of “ViolationIDs” per “BuildingID” (i.e. violations per building). 
