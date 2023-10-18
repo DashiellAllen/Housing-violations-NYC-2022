@@ -44,7 +44,7 @@ All code in this repository is available under the MIT License. The data file in
 
 Feedback / Questions?
 Contact 
-Dashiell Allen at ​​dashiell.allen10@journalism.cuny.edu
+[Dashiell Allen](dashiell.allen10@journalism.cuny.edu)
 Deidre Foley at deidre.foley18@journalism.cuny.edu
 María Mónica Fernández at monica.fernandez26@journalism.cuny.edu
 Génesis Dávila Santiago at g.davilasantiago@journalism.cuny.edu
