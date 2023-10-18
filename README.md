@@ -46,7 +46,7 @@ Feedback / Questions?
 Contact 
 [Dashiell Allen](dashiell.allen10@journalism.cuny.edu),
 [Deidre Foley](deidre.foley18@journalism.cuny.edu),
-[María Mónica Fernández](monica.fernandez26@journalism.cuny.edu),
+[María Mónica Fernández](monica.fernandez26@journalism.cuny.edu), and
 [Génesis Dávila Santiago](g.davilasantiago@journalism.cuny.edu)
 
 
